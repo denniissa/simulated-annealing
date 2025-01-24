@@ -8,9 +8,9 @@ def f(x, y):
 
 # Parametrii pentru exemple
 examples = [
-    {"temp_init": 100, "cooling_rate": 0.9, "temp_min": 0.1, "num_iterations": 2000},
-    {"temp_init": 50, "cooling_rate": 0.95, "temp_min": 0.01, "num_iterations": 1500},
-    {"temp_init": 200, "cooling_rate": 0.8, "temp_min": 1, "num_iterations": 2500},
+    {"temp_init": 300, "cooling_rate": 0.6, "temp_min": 0.2, "num_iterations": 2000},
+    {"temp_init": 80, "cooling_rate": 0.88, "temp_min": 0.08, "num_iterations": 1500},
+    {"temp_init": 200, "cooling_rate": 0.3, "temp_min": 0.5, "num_iterations": 2500},
 ]
 
 # Generarea graficului 3D al funcției
